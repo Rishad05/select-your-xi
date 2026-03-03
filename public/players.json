@@ -1,0 +1,122 @@
+[
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319941.png",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 9.5,
+    "batting-style": "Left-hand Bat",
+    "bowling-style": "Slow Left-arm Orthodox",
+    "price": "$200,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319940.png",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playing-role": "Opening Batsman",
+    "rating": 9.0,
+    "batting-style": "Left-hand Bat",
+    "bowling-style": "Right-arm Offbreak",
+    "price": "$180,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319814.png",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "playing-role": "All-rounder",
+    "rating": 9.7,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Fast",
+    "price": "$250,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319815.png",
+    "name": "Faf du Plessis",
+    "country": "South Africa",
+    "playing-role": "Top-order Batsman",
+    "rating": 8.8,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Legbreak",
+    "price": "$170,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319813.png",
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "playing-role": "Top-order Batsman",
+    "rating": 9.6,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Offbreak",
+    "price": "$240,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319812.png",
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "playing-role": "Bowler",
+    "rating": 9.4,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Legbreak",
+    "price": "$220,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319942.png",
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "playing-role": "Wicketkeeper Batsman",
+    "rating": 8.7,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Offbreak",
+    "price": "$150,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319943.png",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 9.1,
+    "batting-style": "Left-hand Bat",
+    "bowling-style": "Left-arm Fast-medium",
+    "price": "$190,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319816.png",
+    "name": "David Miller",
+    "country": "South Africa",
+    "playing-role": "Middle-order Batsman",
+    "rating": 8.9,
+    "batting-style": "Left-hand Bat",
+    "bowling-style": "Right-arm Offbreak",
+    "price": "$175,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319817.png",
+    "name": "Mohammad Nabi",
+    "country": "Afghanistan",
+    "playing-role": "All-rounder",
+    "rating": 8.6,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Offbreak",
+    "price": "$160,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319818.png",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "playing-role": "All-rounder",
+    "rating": 9.2,
+    "batting-style": "Left-hand Bat",
+    "bowling-style": "Right-arm Offbreak",
+    "price": "$210,000"
+  },
+  {
+    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319944.png",
+    "name": "Taskin Ahmed",
+    "country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 8.5,
+    "batting-style": "Right-hand Bat",
+    "bowling-style": "Right-arm Fast",
+    "price": "$140,000"
+  }
+]
