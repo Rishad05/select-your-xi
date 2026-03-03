@@ -10,8 +10,8 @@ const AvailablePlayers = ({ playersPromise }) => {
      <div className="card bg-base-100 w-96 shadow-sm p-4">
       <figure>
        <img
-        src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-        alt="Shoes" />
+        src={player.playerimage}
+        alt={player.name} />
       </figure>
       <div className="card-body">
        <h2 className="card-title">{player.name}</h2>

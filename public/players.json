@@ -1,6 +1,6 @@
 [
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319941.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319941.png",
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
     "playing-role": "All-rounder",
@@ -10,7 +10,7 @@
     "price": "$200,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319940.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319940.png",
     "name": "Tamim Iqbal",
     "country": "Bangladesh",
     "playing-role": "Opening Batsman",
@@ -20,7 +20,7 @@
     "price": "$180,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319814.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319814.png",
     "name": "Andre Russell",
     "country": "West Indies",
     "playing-role": "All-rounder",
@@ -30,7 +30,7 @@
     "price": "$250,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319815.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319815.png",
     "name": "Faf du Plessis",
     "country": "South Africa",
     "playing-role": "Top-order Batsman",
@@ -40,7 +40,7 @@
     "price": "$170,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319813.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319813.png",
     "name": "Babar Azam",
     "country": "Pakistan",
     "playing-role": "Top-order Batsman",
@@ -50,7 +50,7 @@
     "price": "$240,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319812.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319812.png",
     "name": "Rashid Khan",
     "country": "Afghanistan",
     "playing-role": "Bowler",
@@ -60,7 +60,7 @@
     "price": "$220,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319942.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319942.png",
     "name": "Liton Das",
     "country": "Bangladesh",
     "playing-role": "Wicketkeeper Batsman",
@@ -70,7 +70,7 @@
     "price": "$150,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319943.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319943.png",
     "name": "Mustafizur Rahman",
     "country": "Bangladesh",
     "playing-role": "Bowler",
@@ -80,7 +80,7 @@
     "price": "$190,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319816.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319816.png",
     "name": "David Miller",
     "country": "South Africa",
     "playing-role": "Middle-order Batsman",
@@ -90,7 +90,7 @@
     "price": "$175,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319817.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319817.png",
     "name": "Mohammad Nabi",
     "country": "Afghanistan",
     "playing-role": "All-rounder",
@@ -100,7 +100,7 @@
     "price": "$160,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319818.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319800/319818.png",
     "name": "Sunil Narine",
     "country": "West Indies",
     "playing-role": "All-rounder",
@@ -110,7 +110,7 @@
     "price": "$210,000"
   },
   {
-    "player-image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319944.png",
+    "playerimage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_320,q_60/lsci/db/PICTURES/CMS/319900/319944.png",
     "name": "Taskin Ahmed",
     "country": "Bangladesh",
     "playing-role": "Bowler",
